@@ -23,7 +23,7 @@
           "value": "YOUR_SLOT_EXAMPLE_VALUE"
         }
       },
-      "name": "YOUR_INTENT_HERE"
+      "name": "GetCurrentStatusIntent"
     }
   },
   "context": {

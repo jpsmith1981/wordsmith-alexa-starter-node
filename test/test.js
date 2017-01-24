@@ -1,5 +1,5 @@
 const event = require('./invocation.json');
-const { handler } = require('../index.js');
+const handler = require('../index.js').handler;
 
 // Create a mock of Lambda's context object
 const context = {
